@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "OpenShell-Community",
+  "versions": [
+    {
+      "commit": "36c558e929359830bf272868f42de7bf47bd2716",
+      "tag": "",
+      "parsed_at": "2026-10-09T13:19:09.792469+00:00"
+    }
+  ]
+}
